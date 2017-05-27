@@ -113,7 +113,7 @@ root节点本身也是一个SWindow窗口对象，但是在这里必须是"root"
 
 在这个布局XML中有大量的控件属性定义。不同的控件有不同的属性，这里不详细展开，这里主要关注一下page节点下的include节点。
 
-include只有一个属性：src，src定义如何去引用在另一个XML文件中定义的布局XML，如“layout:page_layout”代表这里要引用在layout资源类型中定义的name为page_layout的XML文件（关于资源的定义参考第四篇）。
+include只有一个属性：src，src定义如何去引用在另一个XML文件中定义的布局XML，如“`layout:page_layout`”代表这里要引用在layout资源类型中定义的name为page_layout的XML文件（关于资源的定义参考第四篇）。
 
 下面是`layout:page_layout`指向的XML文件的内容：
 

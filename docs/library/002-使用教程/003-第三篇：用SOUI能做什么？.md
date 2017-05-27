@@ -643,7 +643,7 @@ void CMainDlg::OnBtnMsgBox()
 }
 ```
 
-maindlg.cpp的主要工作就是调用SHostWnd的FindChildByName/FindChildByID查找到SOUI的控件，然后调用控件提供的方法完成对控件的操作。
+maindlg.cpp的主要工作就是调用SHostWnd的`FindChildByName/FindChildByID`查找到SOUI的控件，然后调用控件提供的方法完成对控件的操作。
 
 大家可能发现使用SOUI的这个main函数相对于其它程序可能要更加复杂，这是为了达到程序配置的灵活性需要付出的代价。
 
