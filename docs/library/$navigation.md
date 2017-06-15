@@ -40,3 +40,9 @@
    - [第三十二篇：在SOUI2.0中像android一样使用资源](?file=002-使用教程/032-第三十二篇：在SOUI2.0中像android一样使用资源 "第三十二篇：在SOUI2.0中像android一样使用资源")
    - [第三十三篇：使用uiresImporter生成uires.idx及skin.xml](?file=002-使用教程/033-第三十三篇：使用uiresImporter生成uires.idx及skin.xml "第三十三篇：使用uiresImporter生成uires.idx及skin.xml")
    - [第三十四篇：在SOUI中使用异步通知](?file=002-使用教程/034-第三十四篇：在SOUI中使用异步通知 "第三十四篇：在SOUI中使用异步通知")
+
+##### 技术分析
+   - [为GDI函数增加透明度处理](?file=003-技术分析/01-为GDI函数增加透明度处理 "为GDI函数增加透明度处理")
+
+##### 案例演示
+   - [基于SOUI开发的应用展示](?file=004-案例演示/01-基于SOUI开发的应用展示 "基于SOUI开发的应用展示")
